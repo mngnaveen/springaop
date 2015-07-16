@@ -1,2 +1,2 @@
 # springaop
-Spring AOP projecy
+Spring AOP project
